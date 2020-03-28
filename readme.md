@@ -1,0 +1,1 @@
+s65_x custom macos keymap for QMK
