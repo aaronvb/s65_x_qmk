@@ -1,9 +1,7 @@
 #include QMK_KEYBOARD_H
 
 #define _BL 0
-#define _AL 1
-#define _FL 2
-#define _UL 3
+#define _FL 1
 
 #define FL_CAPS LT(_FL, KC_CAPS) // Tap to toggle caps lock and hold to activate function layer
 
